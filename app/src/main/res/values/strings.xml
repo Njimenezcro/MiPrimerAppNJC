@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MiPrimerAppNJC</string>
+    <string name="SitiosSantander">Sitios Tutisticos SANTANDER</string>
+    <string name="SitioBarichara">Barichara</string>
+    <string name="DescrBarichara">DescrBarichara</string>
+    <string name="DescBarichara">"Barichara es un municipio colombiano ubicado en el departamento de Santander. Forma parte de la provincia de Guanentá. La población es reconocida por sus construcciones de finales del siglo xviii; el sector antiguo de la población fue declarado patrimonio cultural del país mediante decreto 1654 de 1978. Este municipio es conocido popularmente por ser \"el pueblo más lindo de Colombia\", por lo cual ha sido merecedor del título de Monumento Nacional "</string>
 </resources>
